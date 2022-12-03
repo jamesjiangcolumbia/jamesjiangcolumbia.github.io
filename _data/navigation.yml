@@ -2,9 +2,6 @@
 main:
   - title: "Research"
     url: /research/
-    
-  - title: "Curriculum Vitae"
-    url: /cv/
 
-  - title: "Curriculum Vitae Test"
+  - title: "Curriculum Vitae"
     url: /files/JamesJiang_CV.pdf
