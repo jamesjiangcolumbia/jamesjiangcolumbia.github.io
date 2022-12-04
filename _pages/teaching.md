@@ -9,20 +9,20 @@ author_profile: true
 
 ##
 
-Principles of Economics
+* Principles of Economics
 :   Fall 2020, 2022
 
-Microeconomic Analysis I (M.A.)
+* Microeconomic Analysis I (M.A.)
 :   Fall 2017, 2018, 2019
 
-Microeconomic Analysis II (M.A.)
+* Microeconomic Analysis II (M.A.)
 :   Spring 2020, 2021
 
-Introduction to Econometrics
+* Introduction to Econometrics
 :   Spring 2019
 
-Intermediate Microeconomics
+* Intermediate Microeconomics
 :   Spring 2018
 
-Introductory Microeconomics
+* Introductory Microeconomics
 :   Fall 2015 (as undergraduate TA)
