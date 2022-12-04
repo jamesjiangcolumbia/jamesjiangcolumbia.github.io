@@ -18,3 +18,7 @@ author_profile: true
 ### Marriage Penalty and the Decision to Marry: Same-Sex Couples After <i>U.S. v. Windsor</i>
 
 <b>Abstract:</b> The U.S. Supreme Court’s ruling on <i>U.S. v. Windsor</i> in June 2013 compelled the federal government to recognize state-sanctioned same-sex marriages, including for tax purposes. The switch in the income tax filing status for same-sex couples implied that the marriage penalty or subsidy that came with joint filing became a legitimate concern for couples making a marriage decision. Using repeated cross-sectional data, I find that lesbian couples who had more to gain (or less to lose) from marriage were more likely to marry after the Supreme Court ruling. No comparable effect is found for gay couples.
+
+## Work in Progress
+
+### Partisanship of Elected County Coroners and Reported Covid-19 Deaths
