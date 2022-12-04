@@ -12,4 +12,4 @@ I am a PhD candidate in Economics at Columbia University and a 2022--2023 job ma
 
 My <a href="/files/JMP.pdf" target="_blank">job market paper</a> examines the effect of newly available information on lead service lines (lead pipes) on housing prices in Washington, D.C., and assesses the effect of the release as a public health policy.
 
-I strive to use my economics training to make real-world impact, and broaden my perspective by working with people from different backgrounds and with different skill sets.
+I strive to use my economics training to make real-world impact, and hope to broaden my perspective by working with people from different backgrounds and with different skill sets.
