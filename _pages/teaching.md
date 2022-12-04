@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-##
+## 
 
 * Principles of Economics
 :   Fall 2020, 2022
